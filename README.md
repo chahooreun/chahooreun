@@ -12,22 +12,22 @@
 - 
 ### ⚡ My Tech Stacks
 ![Javascript](http://img.shields.io/badge/-Javascript-f7e018?style=flat-square&logo=javascript&logoColor=black)
-![NodeJS](http://img.shields.io/badge/-Node.js-333?style=flat-square&logo=Node.js)
-![Socket.io](http://img.shields.io/badge/-Socket.io-010101?style=flat-square&logo=Socket.io&logoColor=white)
-![Express](http://img.shields.io/badge/-Express-000000?style=flat-square&logo=Express&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![React](http://img.shields.io/badge/-React-20232a?style=flat-square&logo=React)
-![NextJS](http://img.shields.io/badge/-NextJS-000000?style=flat-square&logo=Next.js&logoColor=white)
-![React Native](http://img.shields.io/badge/-React_Native-20232a?style=flat-square&logo=React)
-![Expo](http://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
+![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![HTML5](http://img.shields.io/badge/-HTML5-f06529?style=flat-square&logo=HTML5&logoColor=white)
-![Pug](http://img.shields.io/badge/-Pug-a86454?style=flat-square&logo=Pug&logoColor=black)
+
 ![CSS3](http://img.shields.io/badge/-CSS3-1572b6?style=flat-square&logo=CSS3)
-![TailwindCSS](http://img.shields.io/badge/-TailwindCSS-06d6b4?style=flat-square&logo=TailwindCSS&logoColor=white)
+
 ![Python](http://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=Python&logoColor=white)
-![C++](http://img.shields.io/badge/-C++-00599c?style=flat-square&logo=C%2B%2B&logoColor=white)
-![Firebase](http://img.shields.io/badge/-Firebase-2C384A?style=flat-square&logo=firebase)
+
+
 ![Git](http://img.shields.io/badge/-Git-f05032?style=flat-square&logo=Git&logoColor=white)
 ![Github](http://img.shields.io/badge/-Github-181717?style=flat-square&logo=Github&logoColor=white)
-
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?chahooreun={chahooreun}&theme=blue-green)
 <div align="center">
 
