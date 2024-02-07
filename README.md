@@ -28,6 +28,6 @@
 
 ![Git](http://img.shields.io/badge/-Git-f05032?style=flat-square&logo=Git&logoColor=white)
 ![Github](http://img.shields.io/badge/-Github-181717?style=flat-square&logo=Github&logoColor=white)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?chahooreun={chahooreun}&theme=blue-green)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?https://github.com/chahooreun={chahooreun}&theme=blue-green)
 <div align="center">
 
