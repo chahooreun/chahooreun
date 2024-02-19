@@ -9,7 +9,8 @@
 
 
 ### 💁‍♂️ Who am I?
-- 
+- Hello, I am Hoo Reun, a developer.
+- Welcome to my GitHub
 ### ⚡ My Tech Stacks
 ![Javascript](http://img.shields.io/badge/-Javascript-f7e018?style=flat-square&logo=javascript&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -22,12 +23,12 @@
 ![HTML5](http://img.shields.io/badge/-HTML5-f06529?style=flat-square&logo=HTML5&logoColor=white)
 
 ![CSS3](http://img.shields.io/badge/-CSS3-1572b6?style=flat-square&logo=CSS3)
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
 
-![Python](http://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=Python&logoColor=white)
 
 
 ![Git](http://img.shields.io/badge/-Git-f05032?style=flat-square&logo=Git&logoColor=white)
 ![Github](http://img.shields.io/badge/-Github-181717?style=flat-square&logo=Github&logoColor=white)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?https://github.com/chahooreun={chahooreun}&theme=blue-green)
+
 <div align="center">
 
